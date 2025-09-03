@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, issues, or feature requests, please open an issue on the GitHub repository or contact the maintainer at:
 
 - Email: feloh64@gmail.com
-- GitHub: [https://github.com/FiloHany/Chat-App-For-Beginners.gi](https://github.com/FiloHany/Chat-App-For-Beginners.git)
+- GitHub: [https://github.com/FiloHany](https://github.com/FiloHany)
 
 ---
 
